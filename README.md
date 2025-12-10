@@ -5,5 +5,4 @@ A **hybrid recommender** that combines:
 - **Collaborative filtering**: User-Item matrix with cosine similarity
 - **Hybrid scoring**: Weighted average of both
 
---------------------------------
---------------------------------
+------
